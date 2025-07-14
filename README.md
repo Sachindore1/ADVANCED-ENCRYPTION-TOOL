@@ -38,10 +38,14 @@ Develop a secure file encryption tool using AES-256 (CBC mode), allowing:
 
 ### 📁 PROJECT STRUCTURE
 
+```
+
 aes_encryption_tool/
 ├── aes_tool.py       -> AES encryption/decryption logic
 ├── gui.py            -> Tkinter interface for user actions
 └── README.txt        -> Internship documentation (this file)
+
+```
 
 --------------------------------------------------------------------
 
